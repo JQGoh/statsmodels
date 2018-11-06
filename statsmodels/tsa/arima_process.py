@@ -660,7 +660,7 @@ class ArmaProcess(object):
     .. math::
 
         \left(1-\phi_{1}L-\ldots-\phi_{p}L^{p}\right)y_{t} =
-            \left(1-\theta_{1}L-\ldots-\theta_{q}L^{q}\right)
+            \left(1+\theta_{1}L+\ldots+\theta_{q}L^{q}\right)\epsilon_{t}
 
     Examples
     --------
